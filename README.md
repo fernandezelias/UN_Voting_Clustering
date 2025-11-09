@@ -45,7 +45,7 @@ El modelo muestra un **índice de Silhouette de 0.81**, lo que refleja una **cla
 | Bloque | Descripción general |
 |:------:|----------------------|
 | 🟣 **Bloque 1** | Estados Unidos e Israel — patrón de voto distintivo y consistente en temas de seguridad y Medio Oriente. |
-| 🟢 **Bloque 2** | Mayoría de los Estados miembros — comportamiento alineado con el consenso multilateral y variaciones regionales moderadas. |
+| 🟡 **Bloque 2** | Mayoría de los Estados miembros — comportamiento alineado con el consenso multilateral y variaciones regionales moderadas. |
 
 ---
 
