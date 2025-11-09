@@ -45,7 +45,7 @@ The clustering model achieved a **Silhouette Score of 0.81**, indicating **clear
 | Bloc | Description |
 |:----:|--------------|
 | 🟣 **Bloc 1** | United States and Israel — distinctive voting behavior, consistently divergent on security and Middle East issues. |
-| 🟢 **Bloc 2** | Most UN member states — broadly aligned with multilateral consensus, with moderate regional variations. |
+| 🟡 **Bloc 2** | Most UN member states — broadly aligned with multilateral consensus, with moderate regional variations. |
 
 ---
 
