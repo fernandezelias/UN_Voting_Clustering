@@ -51,13 +51,15 @@ The clustering model achieved a **Silhouette Score of 0.81**, indicating **clear
 
 ## 🌍 Visualizations
 
-### 🔹 PCA by Geographic Region  
-![PCA by region](figures/pca_regiones_un_2010_2024_preview.png)  
-🔗 [View interactive map](https://fernandezelias.github.io/UN_Voting_Clustering/figures/pca_regiones_un_2010_2024.html)
+### 🔹 Diplomatic Alignments in PCA Space  
+![PCA by Region](figures/pca_regiones_un_2010_2024_preview.png)  
+*Distribution of countries according to their average voting patterns (Principal Components PC1–PC2).*  
+🔗 [View Interactive Map](https://fernandezelias.github.io/UN_Voting_Clustering/figures/pca_regiones_un_2010_2024.html)
 
 ### 🔹 Global Geopolitical Blocs  
-![UN Blocs Map](figures/mapa_bloques_un_2010_2024_preview.png)  
-🔗 [View interactive map](https://fernandezelias.github.io/UN_Voting_Clustering/figures/mapa_bloques_un_2010_2024.html)
+![UN Voting Blocs Map](figures/mapa_bloques_un_2010_2024_preview.png)  
+*World map showing the blocs identified through hierarchical clustering based on cosine distance.*  
+🔗 [View Interactive Map](https://fernandezelias.github.io/UN_Voting_Clustering/figures/mapa_bloques_un_2010_2024.html)
 
 ---
 
