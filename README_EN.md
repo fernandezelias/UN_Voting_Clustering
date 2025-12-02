@@ -1,13 +1,13 @@
 # 🏛️ Geopolitical Alignments at the United Nations (2010–2024)  
 **Unsupervised clustering using UN General Assembly voting data**
 
+🌐 Disponible en [Español](README.md)
+
 ![Python](https://img.shields.io/badge/Python-3.10.19-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 ![Model](https://img.shields.io/badge/ML-Unsupervised%20Learning-orange.svg)
 ![Domain](https://img.shields.io/badge/Field-Political%20Science-purple)
-
-🌐 Available also in Spanish: [README.md](README.md)
 
 This project analyzes **voting patterns at the UN General Assembly (2010–2024)** to identify **geopolitical blocs** and **alignment structures** among member states in the multilateral system.
 
