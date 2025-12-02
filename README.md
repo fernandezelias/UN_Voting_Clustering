@@ -1,13 +1,13 @@
 # 🏛️ Alineamientos Geopolíticos en Naciones Unidas (2010–2024)  
 **Clustering no supervisado con datos de votaciones de la Asamblea General**
 
+🌐 Available in [English](README_EN.md)
+
 ![Python](https://img.shields.io/badge/Python-3.10.19-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 ![Model](https://img.shields.io/badge/ML-Unsupervised%20Learning-orange.svg)
 ![Domain](https://img.shields.io/badge/Field-Political%20Science-purple)
-
-🌐 Disponible también en inglés: [README_EN.md](README_EN.md)
 
 Este proyecto analiza los **patrones de votación de los Estados miembros de la ONU** entre **2010 y 2024**, con el objetivo de identificar **bloques geopolíticos** y **alineamientos internacionales** en el sistema multilateral contemporáneo.
 
