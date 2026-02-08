@@ -80,7 +80,7 @@ Incluye: país · región · PC1-PC2 · bloque asignado ✅
 ## ✍️ Autor
 **Elías Fernández**  
 📧 Contacto: fernandezelias86@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/eliasfernandez208  
+🔗 LinkedIn: [Profile](www.linkedin.com/in/eliasfernandez208) 
 
 ---
 
