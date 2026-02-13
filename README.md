@@ -77,11 +77,17 @@ Incluye: país · región · PC1-PC2 · bloque asignado ✅
 
 ---
 
-## ✍️ Autor
-**Elías Fernández**  
-📧 Contacto: fernandezelias86@gmail.com  
-🔗 LinkedIn: [Perfil](https://www.linkedin.com/in/eliasfernandez208)
+## 🪪 Licencia
+Este proyecto se distribuye bajo la licencia MIT.  
+Ver archivo [LICENSE](LICENSE).
 
 ---
 
-📌 Licencia: **MIT**
+## ✍️ Autor
+**Elías Fernández**
+
+---
+
+## 📫 Contacto
+📧 [fernandezelias86@gmail.com](mailto:fernandezelias86@gmail.com)  
+🔗 LinkedIn: [Perfil](https://www.linkedin.com/in/eliasfernandez208)
